@@ -6,7 +6,7 @@ Oracle APEX & PL/SQL Developer | Oracle Certified (OCI, APEX, Cloud, EBS R12.2, 
 ## 📜 Certifications  
 - [Oracle Cloud Infrastructure (OCI)](./certificates/oci.pdf)  
 - [Oracle APEX – Certified](./certificates/apex.pdf)  
-- [Oracle APEX Cloud Developer Certified](./certificates/apex-cloud.pdf)  
+- [Oracle APEX Cloud Developer Certified](./certificates/apex-cloud.png)  
 - [EBS R12.2 & BI Publisher](./certificates/ebs.pdf)  
 - [Oracle PL/SQL Developer](./certificates/plsql.pdf)  
 - [Oracle Cloud Solutions](./certificates/cloud.pdf)  
